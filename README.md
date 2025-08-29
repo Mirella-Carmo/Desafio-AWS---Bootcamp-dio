@@ -1,7 +1,7 @@
 <h1>Resolução do desafio proposto no Bootcamp de nuvem AWS da DIO</h1>
 <h3> - Esse relatório apresenta o processo de implementação de ferramentas na empresa
 Abstergo Industries. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade
-de realizar diminuição de custos elevados</h3>
+de realizar diminuição de custos elevados.</h3>
 
      Etapa 1:
         Nome da ferramenta: Amazon Aurora
@@ -23,7 +23,8 @@ de realizar diminuição de custos elevados</h3>
 
         Descrição de caso de uso: usamos essa ferramenta porque a frequência de acesso aos dados
         pode ser variável, tem grande redução de custos porque os dados são armazenados na camada
-        mais econômica. Além dos produtos, também podemos armazenar imagens, notas fiscais digitalizadas, relatórios e históricos de transações no S3.
+        mais econômica. Além dos produtos, também podemos armazenar imagens, notas fiscais digitalizadas,
+        relatórios e históricos de transações no S3.
 
     Etapa 3:
         Nome da ferramenta: AWS Direct Connect
